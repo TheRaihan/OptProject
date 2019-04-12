@@ -6,9 +6,9 @@
 	</head>
 	<body>
 		<nav class="infoBox">
-            <h4 id='h4' style="text-align:center; margin-top: 20%;" >Your Registration is Successful...</h4>
+            <h4 id='h4' style="text-align:center; margin-top: 20%;" >Your grade submission is Complete...</h4>
 						<br> <br> <br><br><br><br>
-						<h6><a href="index.php" style="text-align:center; margin-left: 40%;color:black;">Submit another one</a></h6>
+						<h6><a href="index.php" style="text-align:center; margin: auto;color:black;">Submit another one</a></h6>
 		</nav>
 
 		<!-- 

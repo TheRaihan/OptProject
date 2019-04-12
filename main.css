@@ -59,7 +59,6 @@ button {
     border-radius: 8px;
     margin-left: 48%;
     margin-top: 15px;
-
   }
 
   button:hover {
@@ -75,5 +74,4 @@ button {
     border-radius: 8px;
     margin-left: 48%;
     cursor: pointer;
-
   }
